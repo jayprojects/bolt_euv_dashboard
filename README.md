@@ -13,10 +13,11 @@ I really enjoyed working on this project. I ended up not using it much because #
 
 The EV dashboard worked just fine. 
 
-As best of my understanding gm/onstar does not authorize to use this apis. So i would suggest to keep it at personal learning purpose only. and to everything at your own risk. 
+As best of my understanding gm/onstar does not authorize to use this apis. So i would suggest to keep it at personal learning purpose only. and do everything at your own risk as usual!
 
 ## License
 
 The MIT License (MIT)
+
 
 
