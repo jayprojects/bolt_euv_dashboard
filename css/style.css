@@ -1,0 +1,75 @@
+.progress{
+  position: relative;
+  margin: 4px;
+  float:left;
+  text-align: center;
+  height:180px;
+  width:96%;
+}
+.progress_lable{
+	position: relative;
+    font-size: 35pt;
+    font-weight: 800;
+    margin-top: 100px !important;
+	left: -40%;
+	top:40px;
+}
+.barOverflow{ /* Wraps the rotating .bar */
+  position: relative;
+  width: 300px; height: 150px; /* Half circle (overflow) */
+  margin-bottom: -14px; /* bring the numbers up */
+}
+.bar{
+  position: absolute;
+  top: 0; left: 0;
+  width: 300px; height: 300px; /* full circle! */
+  border-radius: 50%;
+  box-sizing: border-box;
+  border: 40px solid #ddd;     /* half gray, */
+  border-bottom-color: #0bf;  /* half azure */
+  border-right-color: #0bf;
+  margin-top:20px;
+}
+
+#charge-states-container{
+	font-size:20pt;
+}
+#charge-states-container i{
+	font-size:35pt;
+}
+#charge-states-container img{
+	width:40px;
+}
+.charge-state-card{
+	max-width:200px;
+}
+.info-number-lg{
+	font-size: 35pt;
+    font-weight: 800;
+	color:#888888;
+	text-align: center;
+	
+}	
+#charge-states-container{
+background:#eaecf4;
+}
+
+#temp-card{
+	font-size: 20pt;
+    padding: 5%;;
+	background:#eaecf4;
+}
+
+.action-icon i{
+	font-size:40pt;
+}
+
+.action-icon {
+	font-size:16pt;
+	text-align: center;
+	cursor:pointer;
+}
+
+#other-charge-info{
+	font-size:20pt;
+}
