@@ -2,7 +2,7 @@
 
 ![bolt_euv_dashboard](/bolt_euv.jpg "Bolt EUV Dashboard")
 
-##History
+## History
 
 I created this project to communicate with my Bolt EUV 2023. I could retrieve data in real-time, such as Charge level, state, range, temp. As well as execute command like lock unlock cars on/off alarm. 
 And most importantly the whole reason i implemented this to start stop charging. A the time of my investigation the onstart mobile app does not do it. 
@@ -15,7 +15,8 @@ The EV dashboard worked just fine.
 
 As best of my understanding gm/onstar does not authorize to use this apis. So i would suggest to keep it at personal learning purpose only. and to everything at your own risk. 
 
-##License
+## License
 
 The MIT License (MIT)
+
 
